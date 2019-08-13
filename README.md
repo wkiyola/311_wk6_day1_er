@@ -8,7 +8,10 @@ ANSWERS
 
 2. What does the blue diamond next to the "last_update" column on the "inventory" table represent?
 
+---It means "last_update" column isn't null and has a value.
+
 3. How many foreign keys does the "payments" table have? How can you tell?
+
 ---It has 3 foreign keys. They can be seen by clicking the 'foreign keys' tab on mysql workbench.
 
 ##### ER Diagram upload
